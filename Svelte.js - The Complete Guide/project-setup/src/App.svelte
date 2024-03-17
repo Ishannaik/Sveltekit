@@ -32,10 +32,10 @@
 <!-- <input type="text" value={name} on:input={nameInput} /> -->
 <input type="text" bind:value={name} />
 
+<ContactCard userName={name} />
+
 <style>
   h1 {
     color: purple;
   }
 </style>
-
-<ContactCard />
