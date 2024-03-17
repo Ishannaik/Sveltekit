@@ -10,7 +10,7 @@
       description:
         "In this meetup, we will have some experts that teach you how to code!",
       imageUrl:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fbest-coding-bootcamps%2F&psig=AOvVaw",
+        "https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png",
       address: "27th Nerd Road, 32523 New York",
       contactEmail: "code@test.com",
     },
@@ -20,7 +20,7 @@
       subtitle: "Let's go for some swimming",
       description: "We will swim some laps!",
       imageUrl:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fbest-coding-bootcamps%2F&psig=AOvVaw",
+        "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/65ed3e0e175d4779a639f49621f65ae1/22f982bc56c541e8b487e9b6c230cab3",
       address: "27th Nerd Road, 32523 New York",
       contactEmail: "code2@test.com",
     },
