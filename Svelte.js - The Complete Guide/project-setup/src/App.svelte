@@ -19,11 +19,16 @@
   function changeName() {
     name = "Ishan Naik";
   }
+
+  function nameInput(event) {
+    name = event.target.value;
+  }
 </script>
 
 <h1>Hello {uppercaseName}!, My age is {age}</h1>
 <button on:click={incrementAge}>Change Age</button>
-<button on:click={changeName}>Change Name</button>
+<!-- <button on:click={changeName}>Change Name</button> -->
+<input type="text" value={name} on:input={nameInput} />
 
 <style>
   h1 {
